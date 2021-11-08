@@ -14,7 +14,7 @@ struct MainView: View {
     ZStack {
         Color.red.ignoresSafeArea(.all)
    
-        Text("This is a test")
+        Text("This is a test with red")
             .padding()
     }
 }
