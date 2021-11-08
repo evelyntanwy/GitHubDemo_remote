@@ -11,6 +11,7 @@
 		61C254462738C4CC00349F92 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61C254452738C4CC00349F92 /* ContentView.swift */; };
 		61C254482738C4CD00349F92 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 61C254472738C4CD00349F92 /* Assets.xcassets */; };
 		61C2544B2738C4CD00349F92 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 61C2544A2738C4CD00349F92 /* Preview Assets.xcassets */; };
+		61C254532738C6EB00349F92 /* Secondview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61C254522738C6EB00349F92 /* Secondview.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		61C254472738C4CD00349F92 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		61C2544A2738C4CD00349F92 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		61C2544C2738C4CD00349F92 /* GitHubDemo.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = GitHubDemo.entitlements; sourceTree = "<group>"; };
+		61C254522738C6EB00349F92 /* Secondview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Secondview.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				61C254432738C4CC00349F92 /* GitHubDemoApp.swift */,
 				61C254452738C4CC00349F92 /* ContentView.swift */,
+				61C254522738C6EB00349F92 /* Secondview.swift */,
 				61C254472738C4CD00349F92 /* Assets.xcassets */,
 				61C2544C2738C4CD00349F92 /* GitHubDemo.entitlements */,
 				61C254492738C4CD00349F92 /* Preview Content */,
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				61C254462738C4CC00349F92 /* ContentView.swift in Sources */,
+				61C254532738C6EB00349F92 /* Secondview.swift in Sources */,
 				61C254442738C4CC00349F92 /* GitHubDemoApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
