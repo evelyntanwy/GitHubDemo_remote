@@ -11,8 +11,10 @@ struct MainView: View {
     
     // ET: - Body
     
-    var body: some View {
-        Text("This is a test")
+    ZStack {
+        Color.red.ignoresSafeArea(.all)
+   
+        Text("This is a test with red")
             .padding()
     }
 }
